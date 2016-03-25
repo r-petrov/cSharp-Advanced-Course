@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\3.UppercaseWords\bin\Debug\3.UppercaseWords.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\3.UppercaseWords\bin\Debug\3.UppercaseWords.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\3.UppercaseWords\bin\Debug\3.UppercaseWords.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\3.UppercaseWords\obj\Debug\3.UppercaseWords.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\3.UppercaseWords\obj\Debug\3.UppercaseWords.pdb

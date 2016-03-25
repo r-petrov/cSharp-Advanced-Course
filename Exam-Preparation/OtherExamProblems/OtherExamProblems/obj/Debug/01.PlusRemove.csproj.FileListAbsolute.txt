@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\OtherExamProblems\bin\Debug\OtherExamProblems.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\OtherExamProblems\bin\Debug\OtherExamProblems.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\OtherExamProblems\bin\Debug\OtherExamProblems.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\OtherExamProblems\obj\Debug\01.PlusRemove.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\OtherExamProblems\obj\Debug\OtherExamProblems.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\OtherExamProblems\obj\Debug\OtherExamProblems.pdb

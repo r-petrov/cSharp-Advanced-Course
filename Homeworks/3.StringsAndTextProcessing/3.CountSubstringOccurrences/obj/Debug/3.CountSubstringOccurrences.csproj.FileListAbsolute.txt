@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.CountSubstringOccurrences\bin\Debug\3.CountSubstringOccurrences.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.CountSubstringOccurrences\obj\Debug\3.CountSubstringOccurrences.pdb

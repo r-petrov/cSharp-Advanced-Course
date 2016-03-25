@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\2.Replace-A-Tag\bin\Debug\2.Replace-A-Tag.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\2.Replace-A-Tag\bin\Debug\2.Replace-A-Tag.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\2.Replace-A-Tag\bin\Debug\2.Replace-A-Tag.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\2.Replace-A-Tag\obj\Debug\2.ReplaceATag.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\2.Replace-A-Tag\obj\Debug\2.Replace-A-Tag.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\2.Replace-A-Tag\obj\Debug\2.Replace-A-Tag.pdb

@@ -1,0 +1,1 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\bin\Debug\3.RegularExpressions.exe.config

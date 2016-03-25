@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\04.CouplesFrequency\bin\Debug\04.CouplesFrequency.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\04.CouplesFrequency\bin\Debug\04.CouplesFrequency.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\04.CouplesFrequency\bin\Debug\04.CouplesFrequency.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\04.CouplesFrequency\obj\Debug\04.CouplesFrequency.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\04.CouplesFrequency\obj\Debug\04.CouplesFrequency.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\04.CouplesFrequency\obj\Debug\04.CouplesFrequency.pdb

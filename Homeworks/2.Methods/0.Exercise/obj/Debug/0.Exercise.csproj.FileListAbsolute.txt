@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\0.Exercise\bin\Debug\0.Exercise.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\0.Exercise\bin\Debug\0.Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\0.Exercise\bin\Debug\0.Exercise.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\0.Exercise\obj\Debug\0.Exercise.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\0.Exercise\obj\Debug\0.Exercise.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\0.Exercise\obj\Debug\0.Exercise.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\test\bin\Debug\test.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\test\bin\Debug\test.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\test\bin\Debug\test.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\test\obj\Debug\test.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\test\obj\Debug\test.pdb

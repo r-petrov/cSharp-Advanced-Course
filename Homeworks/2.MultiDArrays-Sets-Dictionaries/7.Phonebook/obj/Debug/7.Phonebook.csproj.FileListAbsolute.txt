@@ -1,0 +1,12 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\bin\Debug\7.Phonebook.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\bin\Debug\7.Phonebook.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\bin\Debug\7.Phonebook.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\obj\Debug\7.Phonebook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\obj\Debug\7.Phonebook.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\obj\Debug\7.Phonebook.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\bin\Debug\7.Phonebook.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\obj\Debug\7.Phonebook.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\obj\Debug\7.Phonebook.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\bin\Debug\7.Phonebook.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\bin\Debug\7.Phonebook.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\7.Phonebook\obj\Debug\7.Phonebook.csprojResolveAssemblyReference.cache

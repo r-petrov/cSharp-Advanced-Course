@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\7.QueryMess\bin\Debug\7.QueryMess.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\7.QueryMess\bin\Debug\7.QueryMess.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\7.QueryMess\bin\Debug\7.QueryMess.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\7.QueryMess\obj\Debug\7.QueryMess.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\7.QueryMess\obj\Debug\7.QueryMess.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\7.QueryMess\obj\Debug\7.QueryMess.pdb

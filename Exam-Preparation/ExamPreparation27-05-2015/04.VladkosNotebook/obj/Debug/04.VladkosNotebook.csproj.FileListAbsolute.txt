@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\04.VladkosNotebook\bin\Debug\04.VladkosNotebook.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\04.VladkosNotebook\bin\Debug\04.VladkosNotebook.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\04.VladkosNotebook\bin\Debug\04.VladkosNotebook.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\04.VladkosNotebook\obj\Debug\04.VladkosNotebook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\04.VladkosNotebook\obj\Debug\04.VladkosNotebook.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\04.VladkosNotebook\obj\Debug\04.VladkosNotebook.pdb

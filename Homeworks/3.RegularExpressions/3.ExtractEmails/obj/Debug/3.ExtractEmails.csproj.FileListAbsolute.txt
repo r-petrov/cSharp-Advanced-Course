@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.ExtractEmails\bin\Debug\3.ExtractEmails.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.ExtractEmails\bin\Debug\3.ExtractEmails.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.ExtractEmails\bin\Debug\3.ExtractEmails.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.ExtractEmails\obj\Debug\3.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.ExtractEmails\obj\Debug\3.ExtractEmails.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.ExtractEmails\obj\Debug\3.ExtractEmails.pdb

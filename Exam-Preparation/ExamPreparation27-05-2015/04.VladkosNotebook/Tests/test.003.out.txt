@@ -1,0 +1,10 @@
+Color: orange
+-age: 99
+-name: daniel
+-opponents: mariya, petko
+-rank: 1.00
+Color: red
+-age: 12
+-name: kiko
+-opponents: Vladko
+-rank: 2.00

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.pdb

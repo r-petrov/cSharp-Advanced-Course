@@ -1,0 +1,8 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\bin\Debug\0.SnakeMatrix.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\bin\Debug\0.SnakeMatrix.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\bin\Debug\0.SnakeMatrix.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\obj\Debug\0.SnakeMatrix.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\obj\Debug\0.SnakeMatrix.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\bin\Debug\0.SnakeMatrix.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\obj\Debug\0.SnakeMatrix.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\2.MultiDArrays-Sets-Dictionaries\0.SnakeMatrix\obj\Debug\0.SnakeMatrix.pdb

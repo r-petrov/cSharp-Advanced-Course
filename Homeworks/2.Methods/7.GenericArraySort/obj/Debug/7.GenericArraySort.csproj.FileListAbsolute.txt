@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\7.GenericArraySort\bin\Debug\7.GenericArraySort.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\7.GenericArraySort\bin\Debug\7.GenericArraySort.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\7.GenericArraySort\bin\Debug\7.GenericArraySort.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\7.GenericArraySort\obj\Debug\7.GenericArraySort.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\7.GenericArraySort\obj\Debug\7.GenericArraySort.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\7.GenericArraySort\obj\Debug\7.GenericArraySort.pdb

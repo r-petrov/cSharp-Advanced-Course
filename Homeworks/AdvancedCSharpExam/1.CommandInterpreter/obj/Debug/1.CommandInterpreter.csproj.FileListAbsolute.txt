@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\1.CommandInterpreter\bin\Debug\1.CommandInterpreter.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\1.CommandInterpreter\bin\Debug\1.CommandInterpreter.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\1.CommandInterpreter\bin\Debug\1.CommandInterpreter.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\1.CommandInterpreter\obj\Debug\1.CommandInterpreter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\1.CommandInterpreter\obj\Debug\1.CommandInterpreter.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\AdvancedCSharpExam\1.CommandInterpreter\obj\Debug\1.CommandInterpreter.pdb

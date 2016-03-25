@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\2.SortArrayOfNumbers\bin\Debug\2.SortArrayOfNumbers.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\2.SortArrayOfNumbers\bin\Debug\2.SortArrayOfNumbers.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\2.SortArrayOfNumbers\bin\Debug\2.SortArrayOfNumbers.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\2.SortArrayOfNumbers\obj\Debug\2.SortArrayOfNumbersOwnAlgoritm.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\2.SortArrayOfNumbers\obj\Debug\2.SortArrayOfNumbers.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\2.SortArrayOfNumbers\obj\Debug\2.SortArrayOfNumbers.pdb

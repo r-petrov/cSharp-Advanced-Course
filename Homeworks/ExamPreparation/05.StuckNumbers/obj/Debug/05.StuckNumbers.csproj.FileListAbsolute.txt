@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\05.StuckNumbers\bin\Debug\05.StuckNumbers.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\05.StuckNumbers\bin\Debug\05.StuckNumbers.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\05.StuckNumbers\bin\Debug\05.StuckNumbers.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\05.StuckNumbers\obj\Debug\05.StuckNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\05.StuckNumbers\obj\Debug\05.StuckNumbers.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\05.StuckNumbers\obj\Debug\05.StuckNumbers.pdb

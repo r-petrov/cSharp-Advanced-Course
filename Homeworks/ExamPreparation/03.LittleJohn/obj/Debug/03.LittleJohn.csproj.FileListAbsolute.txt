@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\03.LittleJohn\bin\Debug\03.LittleJohn.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\03.LittleJohn\bin\Debug\03.LittleJohn.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\03.LittleJohn\bin\Debug\03.LittleJohn.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\03.LittleJohn\obj\Debug\03.LittleJohn.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\03.LittleJohn\obj\Debug\03.LittleJohn.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\03.LittleJohn\obj\Debug\03.LittleJohn.pdb

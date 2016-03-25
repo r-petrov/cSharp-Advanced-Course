@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\6.CountSymbols\bin\Debug\6.CountSymbols.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\6.CountSymbols\obj\Debug\6.CountSymbols.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\3.MatrixShuffling\bin\Debug\3.MatrixShuffling.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\3.MatrixShuffling\bin\Debug\3.MatrixShuffling.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\3.MatrixShuffling\bin\Debug\3.MatrixShuffling.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\3.MatrixShuffling\obj\Debug\3.MatrixShuffling.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\3.MatrixShuffling\obj\Debug\3.MatrixShuffling.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.MultiDArrays-Sets-Dictionaries\3.MatrixShuffling\obj\Debug\3.MatrixShuffling.pdb

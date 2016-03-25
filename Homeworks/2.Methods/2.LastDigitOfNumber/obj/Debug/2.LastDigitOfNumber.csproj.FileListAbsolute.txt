@@ -1,0 +1,5 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\2.LastDigitOfNumber\bin\Debug\2.LastDigitOfNumber.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\2.LastDigitOfNumber\bin\Debug\2.LastDigitOfNumber.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\2.LastDigitOfNumber\bin\Debug\2.LastDigitOfNumber.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\2.LastDigitOfNumber\obj\Debug\2.LastDigitOfNumber.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\2.Methods\2.LastDigitOfNumber\obj\Debug\2.LastDigitOfNumber.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\03.ExtractHyperlinks\bin\Debug\03.ExtractHyperlinks.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\03.ExtractHyperlinks\bin\Debug\03.ExtractHyperlinks.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\03.ExtractHyperlinks\bin\Debug\03.ExtractHyperlinks.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\03.ExtractHyperlinks\obj\Debug\03.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\03.ExtractHyperlinks\obj\Debug\03.ExtractHyperlinks.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\OtherExamProblems\03.ExtractHyperlinks\obj\Debug\03.ExtractHyperlinks.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\02.TextGravity\bin\Debug\02.TextGravity.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\02.TextGravity\bin\Debug\02.TextGravity.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\02.TextGravity\bin\Debug\02.TextGravity.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\02.TextGravity\obj\Debug\02.TextGravity.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\02.TextGravity\obj\Debug\02.TextGravity.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\02.TextGravity\obj\Debug\02.TextGravity.csprojResolveAssemblyReference.cache

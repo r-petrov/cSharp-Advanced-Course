@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\02.Clearing Commands\bin\Debug\02.Clearing Commands.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\02.Clearing Commands\bin\Debug\02.Clearing Commands.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\02.Clearing Commands\bin\Debug\02.Clearing Commands.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\02.Clearing Commands\obj\Debug\02.ClearingCommands.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\02.Clearing Commands\obj\Debug\02.Clearing Commands.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\02.Clearing Commands\obj\Debug\02.Clearing Commands.pdb

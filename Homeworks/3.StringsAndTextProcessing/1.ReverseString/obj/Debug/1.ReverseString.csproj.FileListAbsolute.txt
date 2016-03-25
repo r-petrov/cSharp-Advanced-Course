@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.StringsAndTextProcessing\bin\Debug\3.StringsAndTextProcessing.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.StringsAndTextProcessing\bin\Debug\3.StringsAndTextProcessing.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.StringsAndTextProcessing\bin\Debug\3.StringsAndTextProcessing.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.StringsAndTextProcessing\obj\Debug\1.ReverseString.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.StringsAndTextProcessing\obj\Debug\3.StringsAndTextProcessing.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\3.StringsAndTextProcessing\3.StringsAndTextProcessing\obj\Debug\3.StringsAndTextProcessing.pdb

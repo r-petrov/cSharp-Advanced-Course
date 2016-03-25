@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\06.XRemoval2\bin\Debug\06.XRemoval2.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\06.XRemoval2\bin\Debug\06.XRemoval2.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\06.XRemoval2\bin\Debug\06.XRemoval2.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\06.XRemoval2\obj\Debug\06.XRemoval2.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\06.XRemoval2\obj\Debug\06.XRemoval2.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\06.XRemoval2\obj\Debug\06.XRemoval2.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\01.LabirintDash\bin\Debug\01.LabirintDash.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\01.LabirintDash\bin\Debug\01.LabirintDash.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\01.LabirintDash\bin\Debug\01.LabirintDash.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\01.LabirintDash\obj\Debug\01.LabirintDash.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\01.LabirintDash\obj\Debug\01.LabirintDash.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\01.LabirintDash\obj\Debug\01.LabirintDash.pdb

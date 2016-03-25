@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\ExamPreparation27-05-2015\bin\Debug\ExamPreparation27-05-2015.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\ExamPreparation27-05-2015\bin\Debug\ExamPreparation27-05-2015.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\ExamPreparation27-05-2015\bin\Debug\ExamPreparation27-05-2015.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\ExamPreparation27-05-2015\obj\Debug\01.Pyramid.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\ExamPreparation27-05-2015\obj\Debug\ExamPreparation27-05-2015.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Exam-Preparation\ExamPreparation27-05-2015\ExamPreparation27-05-2015\obj\Debug\ExamPreparation27-05-2015.pdb

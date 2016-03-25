@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\5.LongestIncreasingSequence\bin\Debug\5.LongestIncreasingSequence.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\5.LongestIncreasingSequence\bin\Debug\5.LongestIncreasingSequence.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\5.LongestIncreasingSequence\bin\Debug\5.LongestIncreasingSequence.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\5.LongestIncreasingSequence\obj\Debug\5.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\5.LongestIncreasingSequence\obj\Debug\5.LongestIncreasingSequence.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\5.LongestIncreasingSequence\obj\Debug\5.LongestIncreasingSequence.pdb

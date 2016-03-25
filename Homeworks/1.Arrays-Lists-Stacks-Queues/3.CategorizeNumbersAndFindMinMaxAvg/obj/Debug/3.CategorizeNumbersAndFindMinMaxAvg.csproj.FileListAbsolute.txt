@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\3.CategorizeNumbersAndFindMinMaxAvg\bin\Debug\3.CategorizeNumbersAndFindMinMaxAvg.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\3.CategorizeNumbersAndFindMinMaxAvg\bin\Debug\3.CategorizeNumbersAndFindMinMaxAvg.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\3.CategorizeNumbersAndFindMinMaxAvg\bin\Debug\3.CategorizeNumbersAndFindMinMaxAvg.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\3.CategorizeNumbersAndFindMinMaxAvg\obj\Debug\3.CategorizeNumbersAndFindMinMaxAvg.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\3.CategorizeNumbersAndFindMinMaxAvg\obj\Debug\3.CategorizeNumbersAndFindMinMaxAvg.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced-04.05.2015\Homeworks\1.Arrays-Lists-Stacks-Queues\3.CategorizeNumbersAndFindMinMaxAvg\obj\Debug\3.CategorizeNumbersAndFindMinMaxAvg.pdb

@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+class StuckNumbers2
+{
+    static void Main(string[] args)
+    {
+        var count = Console.ReadLine();
+        var inputNumbers = Console.ReadLine();
+        var numbersArray = inputNumbers.Split(new []{' '}, StringSplitOptions.RemoveEmptyEntries);
+        var output=new List<string>();
+
+        foreach (var a in numbersArray)
+        {
+            foreach (var b in numbersArray)
+            {
+                foreach (var c in numbersArray)
+                {
+                    foreach (var d in numbersArray)
+                    {
+                        if (a != b && a != c && a != d && b != c && b != d && c != d)
+                        {
+                            if (a + b == c + d)
+                            {
+                                output.Add(String.Format("{0}|{1}=={2}|{3}", a, b, c, d));
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        if (output.Count > 0)
+        {
+            Console.WriteLine(string.Join("\n", output));
+        }
+        else
+        {
+            Console.WriteLine("No");
+        }
+    }
+}

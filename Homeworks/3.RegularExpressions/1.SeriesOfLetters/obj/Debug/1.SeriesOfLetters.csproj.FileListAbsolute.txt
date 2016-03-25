@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\bin\Debug\3.RegularExpressions.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\bin\Debug\3.RegularExpressions.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\bin\Debug\3.RegularExpressions.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\obj\Debug\1.SeriesOfLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\obj\Debug\3.RegularExpressions.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\3.RegularExpressions\3.RegularExpressions\obj\Debug\3.RegularExpressions.pdb

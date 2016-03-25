@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\5.FunctionalProgramming\1.ClassStudent\bin\Debug\1.ClassStudent.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\5.FunctionalProgramming\1.ClassStudent\bin\Debug\1.ClassStudent.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\5.FunctionalProgramming\1.ClassStudent\bin\Debug\1.ClassStudent.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\5.FunctionalProgramming\1.ClassStudent\obj\Debug\1.ClassStudent.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\5.FunctionalProgramming\1.ClassStudent\obj\Debug\1.ClassStudent.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\5.FunctionalProgramming\1.ClassStudent\obj\Debug\1.ClassStudent.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\07.SemanticHTML\bin\Debug\07.SemanticHTML.exe.config
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\07.SemanticHTML\bin\Debug\07.SemanticHTML.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\07.SemanticHTML\bin\Debug\07.SemanticHTML.pdb
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\07.SemanticHTML\obj\Debug\07.SemanticHTML.csprojResolveAssemblyReference.cache
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\07.SemanticHTML\obj\Debug\07.SemanticHTML.exe
+D:\SoftUni\Courses\programming_fundamentals\c#_advanced\Homeworks\ExamPreparation\07.SemanticHTML\obj\Debug\07.SemanticHTML.pdb
